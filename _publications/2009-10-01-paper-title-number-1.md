@@ -9,7 +9,7 @@ venue: 'Universidad de Chile'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/Terrazas del Maipo_ Terroir, Geologia de sitio y Entorno y su efecto en la calidad de suelos.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Fornes Graell, Javier, Townley Callejas, B., Vargas Soto, S., Castillo Lagos, P., Deckart, K. (2025). &quot;Paper Title Number 1.&quot; <i>Universidad de Chile</i>. 1(1).'
+citation: 'Fornes Graell, Javier, Townley Callejas, B., Vargas Soto, S., Castillo Lagos, P., Deckart, K. (2025). &quot;TERRAZAS DEL MAIPO: TERROIR, GEOLOGÍA DE SITIO Y ENTORNO Y SU EFECTO EN LA CALIDAD DE SUELOS.&quot; <i>Universidad de Chile</i>. 1(1).'
 ---
 Este trabajo trata del últimamente constante acercamiento que presenta la Geología, con los procesos de meteorización, pedológicos y últimamente, biogeoquímicos para así, entender los rasgos y las características como textura de suelo, composición mineralógica y elemental de las terrazas formadas en el río Maipo (STRM o sistema de terrazas del río Maipo), en específico, en la zona de Pirque y Puente Alto, Región Metropolitana.
 En la zona de estudio, se observa a gran escala notorios cambios en los tipos de depósito presente expresados en 3 terrazas agradacionales con sus terrazas degradacionales engranadas, las cuales se hipotetiza, generan distintas características pedológicas y por lo mismo, una posible diferencia en la calidad de la fruta y vino de las vides cv. Cabernet Sauvignon, insertas en estas terrazas y las cuales son manejadas por el Terroir Concha y Toro de Pirque.
