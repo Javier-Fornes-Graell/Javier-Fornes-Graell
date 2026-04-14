@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Javier Fornes Graell"
 title_separator          : "-"
 name                     : &name "Javier F. Graell"
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Chile"
+  bio              : "Geologist with a curiosity as deep as Earth's Mantle"
+  location         : "Santiago, Chile"
   employer         : "On the lookout"
   uri              : # URL
   email            : "javier.fornes@ug.uchile.cl" 
